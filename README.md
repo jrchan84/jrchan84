@@ -1,6 +1,7 @@
 ### Hi! I'm Justin 👦
 - 3rd year Computer Science and Management dual-degree student at UBC - Vancouver, BC
-- Motivated with a need to create, technology is my medium of creation.
+- Motivated with a need to create, technology is my medium of creation
+- Looking for Software and Product Management internships for Summer 2021
 
 ## What I'm doing :on:
 - Software Engineer Intern @ RBC 🏦
