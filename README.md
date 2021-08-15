@@ -9,6 +9,8 @@
 - Developing a educational webapp for learning data structures & algorithms 👨‍🏫
 
 ## What I've done :end:
+- Finalist at RBC Innovation Challenge 2020 - Casual networking python slackbot
+- Hosted Github and ML workshops and developed our website for @ubcdsc
 - BizHacks 2020 - Personalized customer interface using Azure Facial Recognition API 🌝
 - LocalHackDay 2019 - Social eating matching platform 🍖
 - Custom Webflow Website for ThePlugVancouver 🔌
