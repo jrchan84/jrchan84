@@ -4,13 +4,13 @@
 
 ## What I'm doing :on:
 - Software Engineer Intern @ RBC 🏦
-- VP Tech Lead @ Google Developers Student Clubs UBC 👨‍💻
+- VP Tech Lead @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
 - Building a streamlined Android Phone Interface for Seniors & Alzheimer/Dementia patients. 📱
 - Developing a educational webapp for learning data structures & algorithms 👨‍🏫
 
 ## What I've done :end:
-- Finalist at RBC Innovation Challenge 2020 - Casual networking python slackbot
-- Hosted Github and ML workshops and developed our website for @ubcdsc
+- Finalist at RBC Innovation Challenge 2020 - Casual networking python slackbot 🤖
+- Hosted Github and ML workshops and developed our website for GDSC 🧑‍💻
 - BizHacks 2020 - Personalized customer interface using Azure Facial Recognition API 🌝
 - LocalHackDay 2019 - Social eating matching platform 🍖
 - Custom Webflow Website for ThePlugVancouver 🔌
@@ -18,8 +18,9 @@
 - Photography appointment manager (CPSC 210) 📸
 
 ## What I will do :soon:
-- Build a custom CI/CD pipeline for GDSC with GCP and Firebase for inhouse development project 🔨
+- Build a custom CI/CD pipeline for GDSC with GCP and Firebase for internal development projects 🔨
 - Grow GDSC's student community at UBC through workshops, events, and projects 👥
+- Deploy a reddit sentiment analysis webapp with streamlit and huggingface transformers 😠
 - Work at Google 💻
 - Own 1 Bitcoin 💰
 - Break 80 ⛳
