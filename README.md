@@ -23,6 +23,6 @@
 - Grow GDSC's student community at UBC through workshops, events, and projects 👥
 - Deploy a reddit sentiment analysis webapp with streamlit and huggingface transformers 😠
 - Work at Google 💻
-- Own 1 Bitcoin 💰
+- Own 1 BTC #whole-coiner 💰
 - Break 80 ⛳
 
