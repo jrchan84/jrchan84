@@ -22,7 +22,7 @@
 - Build a custom CI/CD pipeline for GDSC with GCP and Firebase for internal development projects 🔨
 - Grow GDSC's student community at UBC through workshops, events, and projects 👥
 - Deploy a reddit sentiment analysis webapp with streamlit and huggingface transformers 😠
-- Work at Google 💻
+- Work at Microsoft and Google 💻
 - Own 1 BTC #whole-coiner 💰
 - Break 80 ⛳
 
