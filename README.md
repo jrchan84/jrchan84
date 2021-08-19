@@ -26,4 +26,4 @@
 - Own 1 BTC #whole-coiner 💰
 - Break 80 ⛳
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrchan84&theme=react&show_icons=true
