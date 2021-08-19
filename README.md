@@ -27,3 +27,5 @@
 - Break 80 ⛳
 
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrchan84&theme=react&show_icons=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrchan84&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
