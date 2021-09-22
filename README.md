@@ -1,15 +1,15 @@
 ## Hi! I'm Justin 👦
-- 3rd year Computer Science and Management dual-degree student at UBC - Vancouver, BC
+- 3rd year Computer Science student at UBC - Vancouver, BC
 - Motivated with a need to create, technology is my medium of creation
 - Looking for Software and Product Management internships for Summer 2021
 
 ## What I'm doing :on:
-- Software Engineer Intern @ RBC 🏦
 - VP Tech Lead @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
 - Building a streamlined Android Phone Interface for Seniors & Alzheimer/Dementia patients. 📱
 - Developing a educational webapp for learning data structures & algorithms 👨‍🏫
 
 ## What I've done :end:
+- Software Engineer Intern @ RBC 🏦
 - Finalist at RBC Innovation Challenge 2020 - Casual networking python slackbot 🤖
 - Hosted Github and ML workshops and developed our website for GDSC 🧑‍💻
 - BizHacks 2020 - Personalized customer interface using Azure Facial Recognition API 🌝
