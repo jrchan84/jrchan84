@@ -1,12 +1,14 @@
 ## Hi! I'm Justin 👦
 - 3rd year Computer Science student at UBC - Vancouver, BC
 - Motivated with a need to create, technology is my medium of creation
-- Looking for Software and Product Management internships for Summer 2021
+- Looking for Software and Product Management internships for Summer 2022
 
 ## What I'm doing :on:
 - VP Tech Lead @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
+- Building a custom discord bot for gamified community engagement 🎮
 - Building a streamlined Android Phone Interface for Seniors & Alzheimer/Dementia patients. 📱
 - Developing a educational webapp for learning data structures & algorithms 👨‍🏫
+- UBC courses and room query engine fullstack course project (CPSC 310) ❔
 
 ## What I've done :end:
 - Software Engineer Intern @ RBC 🏦
@@ -21,8 +23,7 @@
 ## What I will do :soon:
 - Build a custom CI/CD pipeline for GDSC with GCP and Firebase for internal development projects 🔨
 - Grow GDSC's student community at UBC through workshops, events, and projects 👥
-- Deploy a reddit sentiment analysis webapp with streamlit and huggingface transformers 😠
-- Own 1 BTC #whole-coiner 💰
+- Own 1 BTC 💰
 - Break 80 ⛳
 
 <!---
