@@ -8,7 +8,6 @@
 - Building a custom discord bot for gamified community engagement 🎮
 - Designing a custom CI/CD pipeline for GDSC with GCP and Firebase for internal development projects 🔨
 - Developing a educational webapp for learning data structures & algorithms 👨‍🏫
-- UBC courses and room query engine fullstack course project (CPSC 310) ❔
 
 ## What I've done :end:
 - Software Engineer Intern @ RBC 🏦
