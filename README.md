@@ -11,6 +11,7 @@
 
 ## What I've done :end:
 - Software Engineer Intern @ RBC 🏦
+- People's Choice and Honourable Mentions across two internal hackathons at Visier 🏆
 - Finalist at RBC Innovation Challenge 2020 - Casual networking python slackbot 🤖
 - UBC courses and room query engine fullstack course project (CPSC 310) ❔
 - Hosted Github, DevOps, and ML workshops and developed our website for GDSC 🧑‍💻
