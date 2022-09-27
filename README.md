@@ -8,6 +8,7 @@
 - VP Tech Lead / Returning Advisor @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
 - Building a custom discord bot for gamified community engagement 🎮
 - Designing a custom CI/CD pipeline for GDSC with GCP and Firebase for internal development projects 🔨
+- Revamping my personal [website](https://jrchan.ca/) from scratch! Exploring some glassmorphism design :large_blue_diamond:
 
 ## What I've done :end:
 - Software Engineer Intern @ RBC 🏦
