@@ -25,6 +25,7 @@
 ## What I will do :soon:
 - Begin my FTE career!
 - Grow GDSC's student community at UBC through workshops, events, and projects 👥
+- build a streamlined video calling android launcher for seniors and alzheimers/demetia patients :iphone:
 - Reach Radiant in Valorant
 - Break 80 ⛳
 
