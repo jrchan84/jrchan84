@@ -1,7 +1,7 @@
 ## Hi! I'm Justin 👦
 - Senior Computer Science student at UBC - Vancouver, BC
 - Motivated with a need to create, technology is my medium of creation
-- Looking for new grad Software Engineering positions for May/Fall 2023.
+- Looking for new grad Software Engineering positions for Summer 2023.
 
 ## What I'm doing :on:
 - Software Developer intern at Visier 📊
