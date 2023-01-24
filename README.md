@@ -1,16 +1,17 @@
 ## Hi! I'm Justin 👦
-- Senior Computer Science student at UBC - Vancouver, BC
+- Senior Computer Science student at UBC, Graduating May 2023 - Vancouver, BC
 - Motivated with a need to create, technology is my medium of creation
 - Looking for new grad Software Engineering positions for Summer 2023.
 
 ## What I'm doing :on:
-- Software Developer intern at Visier 📊
-- VP Tech Lead / Returning Advisor @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
+- Returning Advisor @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
 - Building a custom discord bot for gamified community engagement 🎮
-- Designing a custom CI/CD pipeline for GDSC with GCP and Firebase for internal development projects 🔨
+- Proposing and building a FOSS distributed systems project (CPSC 416) 🔨
 - Revamping my personal [website](https://jrchan.ca/) from scratch! Exploring some glassmorphism design :large_blue_diamond:
 
 ## What I've done :end:
+- Software Developer Intern at Visier 📊
+- People's Choice, Top 6, and Honourable Mentions across three internal Visier hackathons 🥇
 - Software Engineer Intern @ RBC 🏦
 - People's Choice and Honourable Mentions across two internal hackathons at Visier 🏆
 - Finalist at RBC Innovation Challenge 2020 - Casual networking python slackbot 🤖
@@ -26,7 +27,6 @@
 - Begin my FTE career!
 - Grow GDSC's student community at UBC through workshops, events, and projects 👥
 - build a streamlined video calling android launcher for seniors and alzheimers/demetia patients :iphone:
-- Reach Radiant in Valorant
 - Break 80 ⛳
 
 <!---
