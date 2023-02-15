@@ -5,18 +5,17 @@
 
 ## What I'm doing :on:
 - Returning Advisor @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
-- Building a custom discord bot for gamified community engagement 🎮
-- Proposing and building a FOSS distributed systems project (CPSC 416) 🔨
+- Building a decentralized message service with leadership selection and host migration (CPSC 416) 🔨
 - Revamping my personal [website](https://jrchan.ca/) from scratch! Exploring some glassmorphism design :large_blue_diamond:
 
 ## What I've done :end:
 - Software Developer Intern at Visier 📊
 - People's Choice, Top 6, and Honourable Mentions across three internal Visier hackathons 🥇
 - Software Engineer Intern @ RBC 🏦
-- People's Choice and Honourable Mentions across two internal hackathons at Visier 🏆
 - Finalist at RBC Innovation Challenge 2020 - Casual networking python slackbot 🤖
 - UBC courses and room query engine fullstack course project (CPSC 310) ❔
 - Hosted Github, DevOps, and ML workshops and developed our website for GDSC 🧑‍💻
+- Built a custom discord bot for gamified community engagement on GCP 🎮
 - BizHacks 2020 - Personalized customer interface using Azure Facial Recognition API 🌝
 - LocalHackDay 2019 - Social eating matching platform 🍖
 - Custom Webflow Website for ThePlugVancouver 🔌
