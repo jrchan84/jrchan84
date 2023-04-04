@@ -6,7 +6,7 @@
 ## What I'm doing :on:
 - Returning Advisor @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
 - Building a decentralized message service with leadership selection and host migration (CPSC 416) 🔨
-- Revamping my personal [website](https://jrchan.ca/) from scratch! Exploring some glassmorphism design :large_blue_diamond:
+- Revamping my personal [website](https://jrchan.ca/) from scratch! Exploring some glassmorphism design and integrating a GPT-3.5 Q&A :large_blue_diamond:
 
 ## What I've done :end:
 - Software Developer Intern at Visier 📊
