@@ -5,10 +5,11 @@
 
 ## What I'm doing :on:
 - Returning Advisor @ Google Developers Student Clubs UBC (GDSC) 👨‍💻
-- Building a decentralized message service with leadership selection and host migration (CPSC 416) 🔨
+- Building a decentralized messaging service [project](https://github.com/Harin329/DeMeS) with leadership selection and host migration (CPSC 416) 🔨
 - Revamping my personal [website](https://jrchan.ca/) from scratch! Exploring some glassmorphism design and integrating a GPT-3.5 Q&A :large_blue_diamond:
 
 ## What I've done :end:
+- GeoJson MapBox fullstack [project](https://github.com/jrchan84/Evoly-Map-WebApp) 🗺️
 - Software Developer Intern at Visier 📊
 - People's Choice, Top 6, and Honourable Mentions across three internal Visier hackathons 🥇
 - Software Engineer Intern @ RBC 🏦
@@ -20,7 +21,7 @@
 - LocalHackDay 2019 - Social eating matching platform 🍖
 - Custom Webflow Website for ThePlugVancouver 🔌
 - CRUD database project (CPSC 304) 📁
-- Photography appointment manager (CPSC 210) 📸
+- Photography appointment manager project (CPSC 210) 📸
 
 ## What I will do :soon:
 - Begin my FTE career!
